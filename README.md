@@ -1,1 +1,1 @@
-# iterm-profile
+# Terminal settings
